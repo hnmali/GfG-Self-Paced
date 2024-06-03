@@ -1,1 +1,2 @@
 # GfG-Self-Paced
+<h3>This repository includes solutions to various problems tackled during the GFG Self-Paced Course in C++. It serves as a reference for my progress and understanding of different concepts covered in the course. Each solution is written in C++ and follows best coding practices. <h3>
