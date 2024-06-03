@@ -11,7 +11,7 @@ void sieve(int n) {
             for (int j = 2*i; j <= n; j+=i)
                 isPrime[j] = false;
         }
-    }
+    } // TC: O(nlog(logn))
     return;
 }
 
