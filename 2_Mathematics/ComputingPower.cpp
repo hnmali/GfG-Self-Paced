@@ -7,7 +7,7 @@ int power(int a, int b) {
         return 1;
     int temp = power(a,b/2);
     temp *= temp;
-    if (n%2 == 0)
+    if (b%2 == 0)
         return temp;
     else
         return temp*a;
